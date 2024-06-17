@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "todo1s",
+  "info": {
+    "singularName": "todo1",
+    "pluralName": "todo1s",
+    "displayName": "Todo1"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "item": {
+      "type": "text"
+    }
+  }
+}
