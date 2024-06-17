@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Todo": {
+    "Item": {
       "type": "text"
     }
   }
